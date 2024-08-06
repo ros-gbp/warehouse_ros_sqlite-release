@@ -1,3 +1,26 @@
+## warehouse_ros_sqlite (noetic) - 0.9.1-1
+
+The packages in the `warehouse_ros_sqlite` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --ros-distro noetic warehouse_ros_sqlite` on `Tue, 06 Aug 2024 12:00:23 -0000`
+
+The `warehouse_ros_sqlite` package was released.
+
+Version of package(s) in repository `warehouse_ros_sqlite`:
+
+- upstream repository: https://github.com/ros-planning/warehouse_ros_sqlite.git
+- release repository: https://github.com/ros-gbp/warehouse_ros_sqlite-release.git
+- rosdistro version: `0.9.0-1`
+- old version: `0.9.0-1`
+- new version: `0.9.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## warehouse_ros_sqlite (noetic) - 0.9.0-1
 
 The packages in the `warehouse_ros_sqlite` repository were released into the `noetic` distro by running `/usr/bin/bloom-release warehouse_ros_sqlite --override-release-repository-url https://github.com/ros-gbp/warehouse_ros_sqlite-release.git --ros-distro noetic` on `Tue, 10 May 2022 15:18:55 -0000`
